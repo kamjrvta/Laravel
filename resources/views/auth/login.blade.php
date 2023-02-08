@@ -50,7 +50,7 @@
             </x-primary-button>
 
             <x-primary-button class="ml-4">
-                {{ __('New User') }}
+                {{ __('New User?') }}
             </x-primary-button>
 
 
